@@ -3,7 +3,7 @@ import re
 entradas_compradas = []
 
 def mostrar_menu_principal():
-    print("\n--- MENU PRINCIPAL - CONEJO SIMPATICO ---")
+    print("\n--- MENU PRINCIPAL - CONEJO SIMPATICO (V2) ---")
     print("""
 1. Comprar entrada.
 2. Consultar comprador.
